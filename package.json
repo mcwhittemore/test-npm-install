@@ -1,0 +1,8 @@
+{
+  "name": "test-npm-install",
+  "version": "0.0.0",
+  "description": "a module for testing the npm install command if used inside of your own module such as done in hooks",
+  "main": "index.js",
+  "author": "Matthew Chase Whittemore <mcwhittemore@gmail.com>",
+  "license": "BSD"
+}
